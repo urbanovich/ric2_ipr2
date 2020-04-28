@@ -1,0 +1,16 @@
+/home/dzmitry/VisualStudioCode/WebAppWithDatabaseDemo/WebApp/bin/Debug/netcoreapp2.0/appsettings.Development.json
+/home/dzmitry/VisualStudioCode/WebAppWithDatabaseDemo/WebApp/bin/Debug/netcoreapp2.0/appsettings.json
+/home/dzmitry/VisualStudioCode/WebAppWithDatabaseDemo/WebApp/bin/Debug/netcoreapp2.0/bundleconfig.json
+/home/dzmitry/VisualStudioCode/WebAppWithDatabaseDemo/WebApp/bin/Debug/netcoreapp2.0/Properties/launchSettings.json
+/home/dzmitry/VisualStudioCode/WebAppWithDatabaseDemo/WebApp/bin/Debug/netcoreapp2.0/WebApp.deps.json
+/home/dzmitry/VisualStudioCode/WebAppWithDatabaseDemo/WebApp/bin/Debug/netcoreapp2.0/WebApp.runtimeconfig.json
+/home/dzmitry/VisualStudioCode/WebAppWithDatabaseDemo/WebApp/bin/Debug/netcoreapp2.0/WebApp.runtimeconfig.dev.json
+/home/dzmitry/VisualStudioCode/WebAppWithDatabaseDemo/WebApp/bin/Debug/netcoreapp2.0/WebApp.dll
+/home/dzmitry/VisualStudioCode/WebAppWithDatabaseDemo/WebApp/bin/Debug/netcoreapp2.0/WebApp.pdb
+/home/dzmitry/VisualStudioCode/WebAppWithDatabaseDemo/WebApp/obj/Debug/netcoreapp2.0/WebApp.csprojAssemblyReference.cache
+/home/dzmitry/VisualStudioCode/WebAppWithDatabaseDemo/WebApp/obj/Debug/netcoreapp2.0/WebApp.csproj.CoreCompileInputs.cache
+/home/dzmitry/VisualStudioCode/WebAppWithDatabaseDemo/WebApp/obj/Debug/netcoreapp2.0/WebApp.AssemblyInfoInputs.cache
+/home/dzmitry/VisualStudioCode/WebAppWithDatabaseDemo/WebApp/obj/Debug/netcoreapp2.0/WebApp.AssemblyInfo.cs
+/home/dzmitry/VisualStudioCode/WebAppWithDatabaseDemo/WebApp/obj/Debug/netcoreapp2.0/WebApp.dll
+/home/dzmitry/VisualStudioCode/WebAppWithDatabaseDemo/WebApp/obj/Debug/netcoreapp2.0/WebApp.pdb
+/home/dzmitry/VisualStudioCode/WebAppWithDatabaseDemo/WebApp/obj/Debug/netcoreapp2.0/WebApp.genruntimeconfig.cache
